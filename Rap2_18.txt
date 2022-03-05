@@ -1,7 +1,0 @@
-### Raport 2:  Products ordered more than 1 times###
-
-Products: 
-
-Product: Bibb Lettuce and Celery-Leaf Salad 
-
-################################
