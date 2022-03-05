@@ -1,7 +1,0 @@
-### Raport 2:  Products ordered more than 2 times###
-
-Products: 
-
-No orders.
-
-################################
