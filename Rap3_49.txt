@@ -1,7 +1,0 @@
-### Raport 3:  Clients that ordered more than 2 timeswith a value > 10###
-
-Clients: 
-
-No orders.
-
-################################
