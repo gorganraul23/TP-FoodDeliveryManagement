@@ -1,6 +1,0 @@
-### Raport 1:  Orders between 16 and 18 ###
-
-Orders: 
-
-No orders.
-################################
