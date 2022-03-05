@@ -1,0 +1,12 @@
+### Bill for order beer_22 ###
+
+# Client details:
+ Name: beer
+# Products:
+Citrus Syrup , price: 14
+White Fish Stock , price: 15
+Corn Cakes Topped with Goat Cheese and Bacon , price: 16
+
+TOTAL: 45
+
+################################

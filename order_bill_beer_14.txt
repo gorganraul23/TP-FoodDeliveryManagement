@@ -1,0 +1,10 @@
+### Bill for order beer_14 ###
+
+# Client details:
+ Name: beer
+# Products:
+Pickled Pearl Onions , price: 15
+
+TOTAL: 15
+
+################################

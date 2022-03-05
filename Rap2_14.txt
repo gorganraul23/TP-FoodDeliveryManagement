@@ -1,0 +1,14 @@
+### Raport 2:  Products ordered more than 0 times ###
+
+Products: 
+
+Product: Harry's Strawberry and Tomato Salad 
+Product: Pickled Pearl Onions 
+Product: Citrus Syrup 
+Product: Corn Cakes Topped with Goat Cheese and Bacon 
+Product: Sweet-and-Spicy Dipping Sauce 
+Product: White Fish Stock 
+Product: Bibb Lettuce and Celery-Leaf Salad 
+Product: Viennese Cucumber Salad 
+
+################################
